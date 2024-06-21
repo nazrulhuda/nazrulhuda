@@ -44,7 +44,7 @@
 <div align="center">
 <h2 align="center">⚒️ Other tools ⚒️</h2>
  
- **AWS Textract**, **ElastticSearch**, **AmazonMQ**, **Amazon RDS**, **Amazon Lambda**, **EasyOCR**, **Postman**.
+ **AWS Textract**, **ElasticSearch**, **AmazonMQ**, **Amazon RDS**, **Amazon Lambda**, **EasyOCR**.
 
  </div>
 
@@ -66,11 +66,15 @@
 
 
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulhuda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
 
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👋;+Plese+feel+free+to+contact!;" />
+</h1>
 
