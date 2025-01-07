@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I am a **Graduate Research Assistant** in a computer science lab at **Oklahoma State University**. I have extensive experience in the software industry and various research labs, specializing in developing backend systems and machine learning models. For more, please visit *https://nazrulhuda.github.io/portfolio/*
+ 🔭 I am a **Graduate Research Assistant** in a computer science lab at **Oklahoma State University**. I have extensive experience in the software industry and various research labs, specializing in developing backend systems and machine learning models. For more, please visit *http://nazrulhuda.com*
 
  </div>
  
