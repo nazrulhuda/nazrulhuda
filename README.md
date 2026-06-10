@@ -4,6 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nazrul+Huda+Shanto!;" />
 </h1>
 
+I'm a software engineer and researcher with 5+ years building AI systems and full-stack applications across university research labs and industry — with a focus on making AI reliable, verifiable, and safe enough to trust in high-stakes settings. I recently completed my MS in Computer Science at Oklahoma State University, where my work centered on trustworthy and verifiable AI.
+
+What I build:
+● AI/ML engineering — I design agentic AI systems with LangChain, LangGraph, and the Model Context Protocol (MCP). I built a verifiable-computation framework with 8 custom tools where sensitive data never reaches the language model — the model only orchestrates — and ran an empirical study across 6,000+ API calls and 5 LLMs spanning three model families to make AI agent tools reliable enough for high-stakes use (task completion improved from 70% to 93%).
+● Full-stack development — I design and ship end-to-end applications with Python (Flask, FastAPI), React/Next.js, and PostgreSQL. I built a freight-marketplace platform from the ground up: 50+ REST API endpoints, a 20-table relational schema, JWT authentication, role-based access control, and geospatial features — translating real-world requirements into a working product.
+● Cloud & infrastructure — I built a self-healing security system on Kubernetes and Istio that autonomously detects and mitigates DDoS attacks (94% detection accuracy across 1.2M+ logs) with explainable, auditable root-cause analysis.
+
+Core stack: Python, JavaScript/TypeScript, React, FastAPI, Flask, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Istio, AWS, LangChain/LangGraph/MCP.
+
+My research is published in IEEE Transactions on Cloud Computing (Q1 journal, 20+ citations), with a paper under review at IEEE ACSOS 2026 and a first-author manuscript in preparation on trustworthy AI agents. The through-line of all my work: as AI takes on more autonomous, high-stakes decisions, we need systems that are verifiable, auditable, and safe.
+
+I'm open to roles as a Research Software Engineer, Research Scientist, AI/ML Engineer, or Software Engineer advancing trustworthy and verifiable AI — including at universities and research institutions. Open to relocation
+
 <h3 align="center"></h3>
 
 <br/>
