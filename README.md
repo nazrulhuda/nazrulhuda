@@ -1,140 +1,68 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazrulhuda.nazrulhuda" />
+<h1 align="center">Hi, I'm Nazrul Huda Shanto 👋</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nazrul+Huda+Shanto!;" />
-</h1>
+<p align="center">
+  Computer science researcher and software engineer · MS in Computer Science, Oklahoma State University (2026)<br/>
+  Applying to CS PhD programs for Fall 2027 · Open to research and engineering roles · New York City
+</p>
 
-I'm a software engineer and researcher with 5+ years building AI systems and full-stack applications across university research labs and industry — with a focus on making AI reliable, verifiable, and safe enough to trust in high-stakes settings. I recently completed my MS in Computer Science at Oklahoma State University, where my work centered on trustworthy and verifiable AI.
+<p align="center">
+  <a href="https://www.nazrulhuda.com"><img src="https://img.shields.io/badge/Website-nazrulhuda.com-FF5722?style=flat-square" /></a>
+  <a href="mailto:mshanto@okstate.edu"><img src="https://img.shields.io/badge/Email-mshanto%40okstate.edu-333333?style=flat-square" /></a>
+  <a href="https://scholar.google.com/citations?user=N9aZcZYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nazrulhudashanto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
-What I build:
-● AI/ML engineering — I design agentic AI systems with LangChain, LangGraph, and the Model Context Protocol (MCP). I built a verifiable-computation framework with 8 custom tools where sensitive data never reaches the language model — the model only orchestrates — and ran an empirical study across 6,000+ API calls and 5 LLMs spanning three model families to make AI agent tools reliable enough for high-stakes use (task completion improved from 70% to 93%).
-● Full-stack development — I design and ship end-to-end applications with Python (Flask, FastAPI), React/Next.js, and PostgreSQL. I built a freight-marketplace platform from the ground up: 50+ REST API endpoints, a 20-table relational schema, JWT authentication, role-based access control, and geospatial features — translating real-world requirements into a working product.
-● Cloud & infrastructure — I built a self-healing security system on Kubernetes and Istio that autonomously detects and mitigates DDoS attacks (94% detection accuracy across 1.2M+ logs) with explainable, auditable root-cause analysis.
+I build AI and cloud systems and then test carefully whether they actually work. I have more than four years of research experience: over two years as a Graduate Research Assistant at Oklahoma State University and over two years as an Undergraduate Research Assistant at BRAC University. I also worked for a year as a software engineer.
 
-Core stack: Python, JavaScript/TypeScript, React, FastAPI, Flask, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Istio, AWS, LangChain/LangGraph/MCP.
+### 🔬 Research
 
-My research is published in IEEE Transactions on Cloud Computing (Q1 journal, 20+ citations), with a paper under review at IEEE ACSOS 2026 and a first-author manuscript in preparation on trustworthy AI agents. The through-line of all my work: as AI takes on more autonomous, high-stakes decisions, we need systems that are verifiable, auditable, and safe.
+- **LLM agents that run zero-knowledge proof systems** — first author, under review at IEEE BigData 2026 · [Paper](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs/blob/main/manuscript/Natural-Language-ZK-Verification-via-Skeptical-MCP-Tools.pdf) · [Code & data](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs)
+  An LLM agent that lets people request, check, download, and verify zkSNARK proofs in plain language, using 8 custom MCP tools (LangGraph, FastMCP, Flask, Redis, PostgreSQL, Docker). My *skeptical tools* design, 20 server-side checks on what the model sends, raised task completion from **70% to 93%** across 6,000+ query runs on three open-weight model families. I also contributed new APIs and a verification bug fix that are now merged into the [CoSMeTIC](https://github.com/disys-lab/cosmetic) zkSNARK framework.
 
-I'm open to roles as a Research Software Engineer, Research Scientist, AI/ML Engineer, or Software Engineer advancing trustworthy and verifiable AI — including at universities and research institutions. Open to relocation
+- **Automatic DDoS defense for cloud service meshes** — second author, under review at ICOIN 2027 · [Paper](https://drive.google.com/file/d/1KdqIUXU8p5YX9Xib-yazjfmLLQQOJWKe/view?usp=sharing) · [Prototype code](https://github.com/nazrulhuda/AI-Driven-Anomaly-Detector-and-mitigation-as-a-service)
+  A Kubernetes and Istio framework that detects attacks with a separate ML model for each service (**94.0–97.8% accuracy**) and moves traffic to backup versions automatically, with no changes to application code. Running the models in parallel made detection **2.27× faster**.
 
-<h3 align="center"></h3>
+- **Faster image retrieval over the cloud** — corresponding author, *IEEE Transactions on Cloud Computing* · [Paper](https://ieeexplore.ieee.org/document/9743811)
+  Customized progressive JPEG that cut user waiting time by up to 54% and image size by up to 27%.
 
-<br/>
+- **The digital divide in remote Indigenous communities** — fieldwork in 15 mountain villages in Bangladesh; papers under review at ACM CHI 2027 and *Social Sciences & Humanities Open*, related paper published at ACM COMPASS 2026.
 
-<div align="center">
- 
- *
+### 🛠️ Engineering
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:mshanto@okstate.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/nazrulhudashanto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://nazrulhuda.github.io/portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- **ML document validation for CliQloan**, a mortgage loan origination system: document classifiers and AWS Textract, **45× faster** than manual validation (scikit-learn, AWS Lambda, ECR, Amazon MQ, Spring Boot, PostgreSQL).
+- **Backend of [Janatar Sarkar](https://janatarsarkar.gov.bd/)**, a Bangladesh government portal serving **80,000+ citizens** (Node.js, MongoDB, JWT role management).
+- **FwdStar**, a freight marketplace platform (technical lead and sole architect): Next.js, FastAPI, PostgreSQL/PostGIS, 50+ REST endpoints, and layered security.
 
- <hr/>
- 
+More on my [website](https://www.nazrulhuda.com).
 
-### 🔧 Technical Skills
+### 🧰 Tech stack
 
-#### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+**AI and ML:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
-#### Backend Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+**Backend and web:**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 
+**Data:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### Python Libraries
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Fitz](https://img.shields.io/badge/Fitz-FF0000?style=for-the-badge&logo=fitz&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-464646?style=for-the-badge&logo=tkinter&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4BC51D?style=for-the-badge&logo=seaborn&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### AWS Tools
-![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Opensearch](https://img.shields.io/badge/AWS_Opensearch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AmazonMQ](https://img.shields.io/badge/AmazonMQ-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Secret Manager](https://img.shields.io/badge/AWS_Secret_Manager-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![HTTP APIs](https://img.shields.io/badge/HTTP_APIs-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### Cloud and DevOps Tools
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
-#### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Machine Learning Platforms/Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### Technical Writing Tool
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-#### Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BFF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-
-
-#### Virtualization Tools
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=kvm&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nazrulhuda/nazrulhuda/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulhuda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👋;+Please+feel+free+to+contact!;" />
-</h1>
-
-
-
-
+**Cloud and infrastructure:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
