@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer science researcher and software engineer · MS in Computer Science, Oklahoma State University (2026)<br/>
-  Applying to CS PhD programs for Fall 2027 · Open to research and engineering roles · New York City
+  Applying to CS PhD programs for Fall 2027 · New York City
 </p>
 
 <p align="center">
