@@ -15,7 +15,6 @@
 
 I build AI and cloud systems and then test carefully whether they actually work. I worked for a year as a software engineer, and I have more than four years of research experience: over two years as a Graduate Research Assistant at Oklahoma State University and over two years as an Undergraduate Research Assistant at BRAC University.
 
-I'm open to software engineering, ML engineering, data science, and research engineering roles, and to research collaborations.
 
 ### ⭐ Featured work
 
@@ -40,7 +39,7 @@ I'm open to software engineering, ML engineering, data science, and research eng
   Customized progressive JPEG that cut user waiting time by up to 54% and image size by up to 27%.
 - **The digital divide in remote Indigenous communities** · fieldwork in 15 mountain villages in Bangladesh; published at ACM COMPASS 2026, with papers under review at ACM CHI 2027 and *Social Sciences & Humanities Open*.
 
-More on my [portfolio](https://dev.nazrulhuda.com) and [research website](https://www.nazrulhuda.com).
+
 
 ### 🧰 Tech stack
 
