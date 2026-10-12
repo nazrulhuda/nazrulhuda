@@ -6,8 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://dev.nazrulhuda.com"><img src="https://img.shields.io/badge/Portfolio-dev.nazrulhuda.com-FF5722?style=flat-square" /></a>
-  <a href="https://www.nazrulhuda.com"><img src="https://img.shields.io/badge/Research-nazrulhuda.com-6A1B9A?style=flat-square" /></a>
   <a href="mailto:mshanto@okstate.edu"><img src="https://img.shields.io/badge/Email-mshanto%40okstate.edu-333333?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/mshanto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=N9aZcZYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
