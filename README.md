@@ -16,7 +16,7 @@ I build AI and cloud systems and then test carefully whether they actually work.
 
 ### ⭐ Featured work
 
-- **LLM agent that runs zero-knowledge proof systems** · *Research, first author, with Dr. Paritosh Ramanan, under review at IEEE BigData 2026* · [Demo (1:55)](https://youtu.be/MiPHBLRDVGc) · [Paper](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs/blob/main/manuscript/Natural-Language-ZK-Verification-via-Skeptical-MCP-Tools.pdf) · [Code & data](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs)
+- **LLM agent that runs zero-knowledge proof systems** · *Research, first author, with Dr. Paritosh Ramanan, under review at IEEE BigData 2026* · [Demo (1:55)](https://youtu.be/AQkmil7ZKEE) · [Paper](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs/blob/main/manuscript/Natural-Language-ZK-Verification-via-Skeptical-MCP-Tools.pdf) · [Code & data](https://github.com/disys-lab/Skeptical-MCP-For-zkSNARKs)
   An LLM agent that lets people request, check, download, and verify zkSNARK proofs in plain language, using 8 custom MCP tools (LangGraph, FastMCP, Flask, Redis, PostgreSQL, Docker). My *skeptical tools* design, 20 server-side design decisions about what the model sends, raised task completion by about **23 points** on each of three open-weight model families (Qwen 3 32B: **70% → 93%**), across 6,000+ query runs. I also contributed new APIs and a verification bug fix that are now merged into the [CoSMeTIC](https://github.com/disys-lab/cosmetic) zkSNARK framework.
 
 - **ML document validation for CliQloan**, a mortgage loan origination system · *Industry, Tirzok, 2023*
